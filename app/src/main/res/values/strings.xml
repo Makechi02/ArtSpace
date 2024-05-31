@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_art_1">Red Canoes on Sea Dock</string>
+    <string name="author_art_1">James Wheeler</string>
+    <string name="title_art_2">Turned On Black Samsung Android Smartphone</string>
+    <string name="author_art_2">Noah Erickson</string>
+    <string name="title_art_3">Aerial View of Road in the Middle of Trees</string>
+    <string name="author_art_3">Deva Darshan</string>
+    <string name="title_art_4">Silver Audi R8</string>
+    <string name="author_art_4">Matheus Bertelli</string>
+    <string name="title_art_5">Computer Setup on a Desk With Office Chair</string>
+    <string name="author_art_5">Minh Phuc</string>
+</resources>
